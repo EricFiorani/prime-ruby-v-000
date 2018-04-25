@@ -1,3 +1,3 @@
 def prime?()
-
+  (2..Math.sqrt(n)).none? {|f| n % f == 0}
 end
