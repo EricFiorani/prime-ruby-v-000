@@ -1,8 +1,5 @@
 require 'benchmark'
 
-def prime?()
-
-end
 n = n.to_i
 
 def prime?(n)
