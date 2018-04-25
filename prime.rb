@@ -1,4 +1,4 @@
-require 'benchmark'
+
 
 n = n.to_i
 
